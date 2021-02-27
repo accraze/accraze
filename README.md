@@ -1,3 +1,4 @@
-[![Accraze's GitHub stats](https://github-readme-stats.vercel.app/api?username=accraze)](https://github.com/anuraghazra/github-readme-stats)
+[![Accraze's GitHub stats](https://github-readme-stats.vercel.app/api?username=accraze&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a Software Engineer with a strong interest in Machine Learning and Audio.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=accraze&hide=tex,javascript,jupyter%20notebook,html&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
